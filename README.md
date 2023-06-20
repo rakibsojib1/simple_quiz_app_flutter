@@ -1,5 +1,6 @@
 # quize_app
 I ll add ui and more feature. im not geting time cuz of examination.
+all data is saving in firebase.
 
 
 ![photo_2023-06-20_22-46-12](https://github.com/rakibsojib1/simple_quiz_app_flutter/assets/118044314/78bd5935-abba-43e5-8ebd-3c31c0098262)
